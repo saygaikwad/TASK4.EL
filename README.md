@@ -1,8 +1,4 @@
 # TASK4.EL
- interactive dashboard for business stakeholders
-
----
-
 # Prerna Technical Education Sales and Revenue Dashboard
 
 ## Overview
